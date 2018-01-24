@@ -1,0 +1,10 @@
+{
+  "name": "scepter-reducer-lib",
+  "version": "0.0.1",
+  "description": "Common reducer functions",
+  "main": "index.js",
+  "repository": "git@github.com:source4societyorg/SCEPTER-reducer-lib.git",
+  "author": "Source 4 Society <accounts@source4society.org>",
+  "license": "AGPL-3.0",
+  "private": false
+}
